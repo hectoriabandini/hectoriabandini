@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hectoriabandini
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
+- I am a S.E student @ALX Student
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
