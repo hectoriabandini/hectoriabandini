@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hectoriabandini
+- 👋 Hi, I’m @hector
 - 👀 I’m interested in programming
 - I am a S.E student @ALX Student
 - 🌱 I’m currently learning css
