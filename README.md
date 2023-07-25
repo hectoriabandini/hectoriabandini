@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @hector
+- hi i'm Abuh Moses
+- 👋 you can call me @hector
 - 👀 I’m interested in programming
 - I am a S.E student @ALX Student
 - 🌱 I’m currently learning css
